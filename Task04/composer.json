@@ -1,5 +1,5 @@
 {
-    "name": "ks561/task04",
+    "name": "mr-wo/task04",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
